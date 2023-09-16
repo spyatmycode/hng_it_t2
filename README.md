@@ -15,7 +15,7 @@ Follow these instructions to set up and run the project locally on your machine.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/spyatmycode/hng_it_t2
+   git clone https://github.com/spyatmycode/hng_it_t2.git
 
    ```
 
